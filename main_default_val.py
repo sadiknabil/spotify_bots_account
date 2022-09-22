@@ -48,7 +48,7 @@ class Main:
 
         self.proxy_type = 'socks5'
 
-        self.amount = 50
+        self.amount = '50'
         print()
 
         if self.amount == '':
